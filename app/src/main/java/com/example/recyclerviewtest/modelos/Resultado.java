@@ -5,7 +5,7 @@ import java.util.List;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-//TODO: (1) En Manifest.XML incluimos permiso de Internet
+//TODO: (1) En Manifest.XML incluimos permiso de Internet y en build.gradle incluimos las librerías
 //TODO: (2) Creamos las clases de los modelos, que deben concordar con los datos de la API
 public class Resultado {
 
